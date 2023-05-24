@@ -134,7 +134,22 @@
 		    "espandi",
 		    "riduci"
 	],
-	
+	[
+	{
+	"keyword": ["spinbox","spin","box"],
+	"nome": "Barra Leonardo",
+	"parte": [
+			{
+				"titolo": "SpinBox",
+				"corpo": "Lo spinbox è un widget di tkinter che consente all'utente di selezionare un valore da una lista predefinita di opzioni. Tuttavia, a differenza della casella di testo, lo spinbox ha dei bottoni di incremento e decremento che consentono all'utente di selezionare un valore specifico nella lista.
+",
+				"code": ["Questo lo inseriamo noi, tu mandaci il codice", "Idem"],
+				"prestetazione": "link della tua presentazione (canva) esportata in HTML",
+				"pdf": "Inseriamo noi quando ci mandate il PDF"
+			}
+		]
+	}				
+]
 	"nome": "Martini Gabriele",
 	"parte": [
 			{
